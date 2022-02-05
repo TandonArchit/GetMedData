@@ -1,4 +1,4 @@
-# getData - MedData
+# Get Med Data
 Extract data from medical files.
 
 ## Installs required:
