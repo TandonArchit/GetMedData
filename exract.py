@@ -78,11 +78,15 @@ for i in range(len(iterDic['level'])):
         foundStat = False
         
         erV = ex
-
+        
+        
+## Now that our computation is done, we can form the output, if the text was found or return false if not.
         
 if foundStat:
   
  try:
+        
+    ## Here we try to make our output image.
   
     outputImg = cv2.addWeighted(overlay, 0.2, readDt, 0.8, 0)
 
