@@ -17,3 +17,7 @@ Extract data from medical files.
 **Step 4:** Make a standardized presentation format for all the images to make it easier to understand.
 
 **Step 5:** Put a final output together with the original image, image with highlights and the standardized form of data in a PDF file.
+
+## Output Text
+
+You can see the actual output text of the code, saved in the text file.
