@@ -5,7 +5,9 @@ Extract data from medical files.
 **!sudo apt install tesseract-ocr** \
 **!pip install pytesseract** \
 **pip install language_tool_python** \
-**pip install PyPDF2**
+**pip install PyPDF2** \
+**pip install reportlab**
+
 
 ## How the code works:
 
